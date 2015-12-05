@@ -1,9 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  year: MyString
+womanking:
+  title: Woman King
+  year: 2005
+  artist: ironandwine
 
-two:
-  title: MyString
-  year: MyString
+foremma:
+  title: For Emma Forever Ago
+  year: 2007
+  artist: boniver

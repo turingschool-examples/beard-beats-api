@@ -1,5 +1,4 @@
 class AlbumsController < ApplicationController
-  include ActionController::ImplicitRender
   before_action :set_album, only: [:show]
 
   def index

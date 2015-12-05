@@ -2,7 +2,7 @@ require 'test_helper'
 
 class SongsControllerTest < ActionController::TestCase
   setup do
-    @song = songs(:one)
+    @song = songs(:jezebel)
   end
 
   test "should get index" do
