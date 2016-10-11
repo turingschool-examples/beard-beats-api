@@ -5,7 +5,7 @@ gem 'rails-api'
 
 gem "active_model_serializers", github: "rails-api/active_model_serializers"
 gem 'responders'
-gem 'sqlite3'
+gem 'pg'
 
 group :development, :test do
   gem 'pry-rails'
